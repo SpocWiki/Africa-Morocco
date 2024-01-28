@@ -110,8 +110,8 @@ id: Morocco
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Morocco//
-markerFolder: ./Morocco//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Morocco] 
