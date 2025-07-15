@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/City/Rabat|Rabat]] 
-- [[../../../../../../_public/geo/Continent/Africa/Morocco/City/Rabat.public|Rabat.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Morocco/City/Rabat.internal|Rabat.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Morocco/City/Rabat.protect|Rabat.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Morocco/City/Rabat.private|Rabat.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Morocco/City/Rabat.personal|Rabat.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Morocco/City/Rabat.secret|Rabat.secret]] 
+
+### #is_/same_as :: [Rabat](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/City/Rabat.md) 
+
+### #is_/same_as :: [Rabat.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/City/Rabat.public.md) 
+
+### #is_/same_as :: [Rabat.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/City/Rabat.internal.md) 
+
+### #is_/same_as :: [Rabat.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/City/Rabat.protect.md) 
+
+### #is_/same_as :: [Rabat.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/City/Rabat.private.md) 
+
+### #is_/same_as :: [Rabat.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/City/Rabat.personal.md) 
+
+### #is_/same_as :: [Rabat.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/City/Rabat.secret.md)
+

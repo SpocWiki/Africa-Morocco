@@ -1,4 +1,4 @@
-﻿---
+---
 location: [36,-6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/City/Tanger|Tanger]] 
-- [[../../../../../../_public/geo/Continent/Africa/Morocco/City/Tanger.public|Tanger.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Morocco/City/Tanger.internal|Tanger.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Morocco/City/Tanger.protect|Tanger.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Morocco/City/Tanger.private|Tanger.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Morocco/City/Tanger.personal|Tanger.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Morocco/City/Tanger.secret|Tanger.secret]] 
+
+### #is_/same_as :: [Tanger](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/City/Tanger.md) 
+
+### #is_/same_as :: [Tanger.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/City/Tanger.public.md) 
+
+### #is_/same_as :: [Tanger.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/City/Tanger.internal.md) 
+
+### #is_/same_as :: [Tanger.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/City/Tanger.protect.md) 
+
+### #is_/same_as :: [Tanger.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/City/Tanger.private.md) 
+
+### #is_/same_as :: [Tanger.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/City/Tanger.personal.md) 
+
+### #is_/same_as :: [Tanger.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/City/Tanger.secret.md)
+

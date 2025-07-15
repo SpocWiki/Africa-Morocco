@@ -40,11 +40,18 @@ markerFolder: ./Guelmim_-_Es-Semara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara|Guelmim_-_Es-Semara]] 
-- [[../../../../../../_public/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara.public|Guelmim_-_Es-Semara.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara.internal|Guelmim_-_Es-Semara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara.protect|Guelmim_-_Es-Semara.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara.private|Guelmim_-_Es-Semara.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara.personal|Guelmim_-_Es-Semara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Morocco/Counties/Guelmim_-_Es-Semara.secret|Guelmim_-_Es-Semara.secret]] 
+
+### #is_/same_as :: [Guelmim-Es-Semara](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.md) 
+
+### #is_/same_as :: [Guelmim-Es-Semara.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.public.md) 
+
+### #is_/same_as :: [Guelmim-Es-Semara.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.internal.md) 
+
+### #is_/same_as :: [Guelmim-Es-Semara.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.protect.md) 
+
+### #is_/same_as :: [Guelmim-Es-Semara.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.private.md) 
+
+### #is_/same_as :: [Guelmim-Es-Semara.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.personal.md) 
+
+### #is_/same_as :: [Guelmim-Es-Semara.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Laâyoune_-_Boujdour_-_Sakia_El_Hamra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/Counties/Laâyoune_-_Boujdour_-_Sakia_El_Hamra|Laâyoune_-_Boujdour_-_Sakia_El_Hamra]] 
-- [[../../../../../../_public/geo/Continent/Africa/Morocco/Counties/Laâyoune_-_Boujdour_-_Sakia_El_Hamra.public|Laâyoune_-_Boujdour_-_Sakia_El_Hamra.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Morocco/Counties/Laâyoune_-_Boujdour_-_Sakia_El_Hamra.internal|Laâyoune_-_Boujdour_-_Sakia_El_Hamra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Morocco/Counties/Laâyoune_-_Boujdour_-_Sakia_El_Hamra.protect|Laâyoune_-_Boujdour_-_Sakia_El_Hamra.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Morocco/Counties/Laâyoune_-_Boujdour_-_Sakia_El_Hamra.private|Laâyoune_-_Boujdour_-_Sakia_El_Hamra.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Morocco/Counties/Laâyoune_-_Boujdour_-_Sakia_El_Hamra.personal|Laâyoune_-_Boujdour_-_Sakia_El_Hamra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Morocco/Counties/Laâyoune_-_Boujdour_-_Sakia_El_Hamra.secret|Laâyoune_-_Boujdour_-_Sakia_El_Hamra.secret]] 
+
+### #is_/same_as :: [Laâyoune-Boujdour-Sakia_El_Hamra](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Laâyoune-Boujdour-Sakia_El_Hamra.md) 
+
+### #is_/same_as :: [Laâyoune-Boujdour-Sakia_El_Hamra.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Laâyoune-Boujdour-Sakia_El_Hamra.public.md) 
+
+### #is_/same_as :: [Laâyoune-Boujdour-Sakia_El_Hamra.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Laâyoune-Boujdour-Sakia_El_Hamra.internal.md) 
+
+### #is_/same_as :: [Laâyoune-Boujdour-Sakia_El_Hamra.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Laâyoune-Boujdour-Sakia_El_Hamra.protect.md) 
+
+### #is_/same_as :: [Laâyoune-Boujdour-Sakia_El_Hamra.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Laâyoune-Boujdour-Sakia_El_Hamra.private.md) 
+
+### #is_/same_as :: [Laâyoune-Boujdour-Sakia_El_Hamra.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Laâyoune-Boujdour-Sakia_El_Hamra.personal.md) 
+
+### #is_/same_as :: [Laâyoune-Boujdour-Sakia_El_Hamra.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Laâyoune-Boujdour-Sakia_El_Hamra.secret.md)
 

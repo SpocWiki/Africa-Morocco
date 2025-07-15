@@ -1,4 +1,4 @@
-﻿---
+---
 location: [32.2,-3.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Spain/City/Granada|Granada]] 
-- [[../../../../../../_public/geo/Continent/Europe/Spain/City/Granada.public|Granada.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Spain/City/Granada.internal|Granada.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Spain/City/Granada.protect|Granada.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Spain/City/Granada.private|Granada.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Spain/City/Granada.personal|Granada.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Spain/City/Granada.secret|Granada.secret]] 
+
+### #is_/same_as :: [Granada](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.md) 
+
+### #is_/same_as :: [Granada.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.public.md) 
+
+### #is_/same_as :: [Granada.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.internal.md) 
+
+### #is_/same_as :: [Granada.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.protect.md) 
+
+### #is_/same_as :: [Granada.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.private.md) 
+
+### #is_/same_as :: [Granada.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.personal.md) 
+
+### #is_/same_as :: [Granada.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.secret.md)
+

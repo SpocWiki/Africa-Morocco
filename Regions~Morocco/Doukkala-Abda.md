@@ -40,11 +40,18 @@ markerFolder: ./Doukkala_-_Abda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda|Doukkala_-_Abda]] 
-- [[../../../../../../_public/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda.public|Doukkala_-_Abda.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda.internal|Doukkala_-_Abda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda.protect|Doukkala_-_Abda.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda.private|Doukkala_-_Abda.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda.personal|Doukkala_-_Abda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Morocco/Counties/Doukkala_-_Abda.secret|Doukkala_-_Abda.secret]] 
+
+### #is_/same_as :: [Doukkala-Abda](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.md) 
+
+### #is_/same_as :: [Doukkala-Abda.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.public.md) 
+
+### #is_/same_as :: [Doukkala-Abda.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.internal.md) 
+
+### #is_/same_as :: [Doukkala-Abda.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.protect.md) 
+
+### #is_/same_as :: [Doukkala-Abda.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.private.md) 
+
+### #is_/same_as :: [Doukkala-Abda.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.personal.md) 
+
+### #is_/same_as :: [Doukkala-Abda.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.secret.md)
 

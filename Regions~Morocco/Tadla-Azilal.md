@@ -40,11 +40,18 @@ markerFolder: ./Tadla_-_Azilal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/Counties/Tadla_-_Azilal|Tadla_-_Azilal]] 
-- [[../../../../../../_public/geo/Continent/Africa/Morocco/Counties/Tadla_-_Azilal.public|Tadla_-_Azilal.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Morocco/Counties/Tadla_-_Azilal.internal|Tadla_-_Azilal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Morocco/Counties/Tadla_-_Azilal.protect|Tadla_-_Azilal.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Morocco/Counties/Tadla_-_Azilal.private|Tadla_-_Azilal.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Morocco/Counties/Tadla_-_Azilal.personal|Tadla_-_Azilal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Morocco/Counties/Tadla_-_Azilal.secret|Tadla_-_Azilal.secret]] 
+
+### #is_/same_as :: [Tadla-Azilal](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tadla-Azilal.md) 
+
+### #is_/same_as :: [Tadla-Azilal.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tadla-Azilal.public.md) 
+
+### #is_/same_as :: [Tadla-Azilal.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tadla-Azilal.internal.md) 
+
+### #is_/same_as :: [Tadla-Azilal.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tadla-Azilal.protect.md) 
+
+### #is_/same_as :: [Tadla-Azilal.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tadla-Azilal.private.md) 
+
+### #is_/same_as :: [Tadla-Azilal.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tadla-Azilal.personal.md) 
+
+### #is_/same_as :: [Tadla-Azilal.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tadla-Azilal.secret.md)
 

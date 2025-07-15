@@ -40,11 +40,18 @@ markerFolder: ./Grand_Casablanca/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/Counties/Grand_Casablanca|Grand_Casablanca]] 
-- [[../../../../../../_public/geo/Continent/Africa/Morocco/Counties/Grand_Casablanca.public|Grand_Casablanca.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Morocco/Counties/Grand_Casablanca.internal|Grand_Casablanca.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Morocco/Counties/Grand_Casablanca.protect|Grand_Casablanca.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Morocco/Counties/Grand_Casablanca.private|Grand_Casablanca.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Morocco/Counties/Grand_Casablanca.personal|Grand_Casablanca.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Morocco/Counties/Grand_Casablanca.secret|Grand_Casablanca.secret]] 
+
+### #is_/same_as :: [Grand_Casablanca](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.md) 
+
+### #is_/same_as :: [Grand_Casablanca.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.public.md) 
+
+### #is_/same_as :: [Grand_Casablanca.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.internal.md) 
+
+### #is_/same_as :: [Grand_Casablanca.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.protect.md) 
+
+### #is_/same_as :: [Grand_Casablanca.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.private.md) 
+
+### #is_/same_as :: [Grand_Casablanca.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.personal.md) 
+
+### #is_/same_as :: [Grand_Casablanca.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Chaouia_-_Ouardigha/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/Counties/Chaouia_-_Ouardigha|Chaouia_-_Ouardigha]] 
-- [[../../../../../../_public/geo/Continent/Africa/Morocco/Counties/Chaouia_-_Ouardigha.public|Chaouia_-_Ouardigha.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Morocco/Counties/Chaouia_-_Ouardigha.internal|Chaouia_-_Ouardigha.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Morocco/Counties/Chaouia_-_Ouardigha.protect|Chaouia_-_Ouardigha.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Morocco/Counties/Chaouia_-_Ouardigha.private|Chaouia_-_Ouardigha.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Morocco/Counties/Chaouia_-_Ouardigha.personal|Chaouia_-_Ouardigha.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Morocco/Counties/Chaouia_-_Ouardigha.secret|Chaouia_-_Ouardigha.secret]] 
+
+### #is_/same_as :: [Chaouia-Ouardigha](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.md) 
+
+### #is_/same_as :: [Chaouia-Ouardigha.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.public.md) 
+
+### #is_/same_as :: [Chaouia-Ouardigha.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.internal.md) 
+
+### #is_/same_as :: [Chaouia-Ouardigha.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.protect.md) 
+
+### #is_/same_as :: [Chaouia-Ouardigha.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.private.md) 
+
+### #is_/same_as :: [Chaouia-Ouardigha.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.personal.md) 
+
+### #is_/same_as :: [Chaouia-Ouardigha.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.secret.md)
 

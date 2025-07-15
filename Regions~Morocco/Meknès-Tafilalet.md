@@ -40,11 +40,18 @@ markerFolder: ./Meknès_-_Tafilalet/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet|Meknès_-_Tafilalet]] 
-- [[../../../../../../_public/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet.public|Meknès_-_Tafilalet.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet.internal|Meknès_-_Tafilalet.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet.protect|Meknès_-_Tafilalet.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet.private|Meknès_-_Tafilalet.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet.personal|Meknès_-_Tafilalet.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Morocco/Counties/Meknès_-_Tafilalet.secret|Meknès_-_Tafilalet.secret]] 
+
+### #is_/same_as :: [Meknès-Tafilalet](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.md) 
+
+### #is_/same_as :: [Meknès-Tafilalet.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.public.md) 
+
+### #is_/same_as :: [Meknès-Tafilalet.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.internal.md) 
+
+### #is_/same_as :: [Meknès-Tafilalet.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.protect.md) 
+
+### #is_/same_as :: [Meknès-Tafilalet.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.private.md) 
+
+### #is_/same_as :: [Meknès-Tafilalet.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.personal.md) 
+
+### #is_/same_as :: [Meknès-Tafilalet.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.secret.md)
 

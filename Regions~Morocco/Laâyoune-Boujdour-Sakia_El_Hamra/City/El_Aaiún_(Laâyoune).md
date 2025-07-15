@@ -1,4 +1,4 @@
-﻿---
+---
 location: [27.15361,-13.20333] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Western_Sahara/City/El_Aaiún_(Laâyoune)|El_Aaiún_(Laâyoune)]] 
-- [[../../../../../../_public/geo/Continent/Africa/Western_Sahara/City/El_Aaiún_(Laâyoune).public|El_Aaiún_(Laâyoune).public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Western_Sahara/City/El_Aaiún_(Laâyoune).internal|El_Aaiún_(Laâyoune).internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Western_Sahara/City/El_Aaiún_(Laâyoune).protect|El_Aaiún_(Laâyoune).protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Western_Sahara/City/El_Aaiún_(Laâyoune).private|El_Aaiún_(Laâyoune).private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Western_Sahara/City/El_Aaiún_(Laâyoune).personal|El_Aaiún_(Laâyoune).personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Western_Sahara/City/El_Aaiún_(Laâyoune).secret|El_Aaiún_(Laâyoune).secret]] 
+
+### #is_/same_as :: [El_Aaiún_(Laâyoune)](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Laâyoune-Boujdour-Sakia_El_Hamra/City/El_Aaiún_(Laâyoune).md) 
+
+### #is_/same_as :: [El_Aaiún_(Laâyoune).public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Laâyoune-Boujdour-Sakia_El_Hamra/City/El_Aaiún_(Laâyoune).public.md) 
+
+### #is_/same_as :: [El_Aaiún_(Laâyoune).internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Laâyoune-Boujdour-Sakia_El_Hamra/City/El_Aaiún_(Laâyoune).internal.md) 
+
+### #is_/same_as :: [El_Aaiún_(Laâyoune).protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Laâyoune-Boujdour-Sakia_El_Hamra/City/El_Aaiún_(Laâyoune).protect.md) 
+
+### #is_/same_as :: [El_Aaiún_(Laâyoune).private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Laâyoune-Boujdour-Sakia_El_Hamra/City/El_Aaiún_(Laâyoune).private.md) 
+
+### #is_/same_as :: [El_Aaiún_(Laâyoune).personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Laâyoune-Boujdour-Sakia_El_Hamra/City/El_Aaiún_(Laâyoune).personal.md) 
+
+### #is_/same_as :: [El_Aaiún_(Laâyoune).secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Laâyoune-Boujdour-Sakia_El_Hamra/City/El_Aaiún_(Laâyoune).secret.md)
+

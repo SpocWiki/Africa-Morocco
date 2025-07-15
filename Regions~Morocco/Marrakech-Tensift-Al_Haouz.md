@@ -40,11 +40,18 @@ markerFolder: ./Marrakech_-_Tensift_-_Al_Haouz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/Counties/Marrakech_-_Tensift_-_Al_Haouz|Marrakech_-_Tensift_-_Al_Haouz]] 
-- [[../../../../../../_public/geo/Continent/Africa/Morocco/Counties/Marrakech_-_Tensift_-_Al_Haouz.public|Marrakech_-_Tensift_-_Al_Haouz.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Morocco/Counties/Marrakech_-_Tensift_-_Al_Haouz.internal|Marrakech_-_Tensift_-_Al_Haouz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Morocco/Counties/Marrakech_-_Tensift_-_Al_Haouz.protect|Marrakech_-_Tensift_-_Al_Haouz.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Morocco/Counties/Marrakech_-_Tensift_-_Al_Haouz.private|Marrakech_-_Tensift_-_Al_Haouz.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Morocco/Counties/Marrakech_-_Tensift_-_Al_Haouz.personal|Marrakech_-_Tensift_-_Al_Haouz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Morocco/Counties/Marrakech_-_Tensift_-_Al_Haouz.secret|Marrakech_-_Tensift_-_Al_Haouz.secret]] 
+
+### #is_/same_as :: [Marrakech-Tensift-Al_Haouz](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Marrakech-Tensift-Al_Haouz.md) 
+
+### #is_/same_as :: [Marrakech-Tensift-Al_Haouz.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Marrakech-Tensift-Al_Haouz.public.md) 
+
+### #is_/same_as :: [Marrakech-Tensift-Al_Haouz.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Marrakech-Tensift-Al_Haouz.internal.md) 
+
+### #is_/same_as :: [Marrakech-Tensift-Al_Haouz.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Marrakech-Tensift-Al_Haouz.protect.md) 
+
+### #is_/same_as :: [Marrakech-Tensift-Al_Haouz.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Marrakech-Tensift-Al_Haouz.private.md) 
+
+### #is_/same_as :: [Marrakech-Tensift-Al_Haouz.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Marrakech-Tensift-Al_Haouz.personal.md) 
+
+### #is_/same_as :: [Marrakech-Tensift-Al_Haouz.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Marrakech-Tensift-Al_Haouz.secret.md)
 

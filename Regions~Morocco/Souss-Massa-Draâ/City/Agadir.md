@@ -1,4 +1,4 @@
-﻿---
+---
 location: [30.43,-9.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/City/Agadir|Agadir]] 
-- [[../../../../../../_public/geo/Continent/Africa/Morocco/City/Agadir.public|Agadir.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Morocco/City/Agadir.internal|Agadir.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Morocco/City/Agadir.protect|Agadir.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Morocco/City/Agadir.private|Agadir.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Morocco/City/Agadir.personal|Agadir.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Morocco/City/Agadir.secret|Agadir.secret]] 
+
+### #is_/same_as :: [Agadir](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ/City/Agadir.md) 
+
+### #is_/same_as :: [Agadir.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ/City/Agadir.public.md) 
+
+### #is_/same_as :: [Agadir.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ/City/Agadir.internal.md) 
+
+### #is_/same_as :: [Agadir.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ/City/Agadir.protect.md) 
+
+### #is_/same_as :: [Agadir.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ/City/Agadir.private.md) 
+
+### #is_/same_as :: [Agadir.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ/City/Agadir.personal.md) 
+
+### #is_/same_as :: [Agadir.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ/City/Agadir.secret.md)
+

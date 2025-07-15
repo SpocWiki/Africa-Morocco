@@ -40,11 +40,18 @@ markerFolder: ./Tanger_-_Tétouan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan|Tanger_-_Tétouan]] 
-- [[../../../../../../_public/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan.public|Tanger_-_Tétouan.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan.internal|Tanger_-_Tétouan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan.protect|Tanger_-_Tétouan.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan.private|Tanger_-_Tétouan.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan.personal|Tanger_-_Tétouan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Morocco/Counties/Tanger_-_Tétouan.secret|Tanger_-_Tétouan.secret]] 
+
+### #is_/same_as :: [Tanger-Tétouan](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.md) 
+
+### #is_/same_as :: [Tanger-Tétouan.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.public.md) 
+
+### #is_/same_as :: [Tanger-Tétouan.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.internal.md) 
+
+### #is_/same_as :: [Tanger-Tétouan.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.protect.md) 
+
+### #is_/same_as :: [Tanger-Tétouan.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.private.md) 
+
+### #is_/same_as :: [Tanger-Tétouan.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.personal.md) 
+
+### #is_/same_as :: [Tanger-Tétouan.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.secret.md)
 

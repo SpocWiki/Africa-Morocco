@@ -40,11 +40,18 @@ markerFolder: ./Fès_-_Boulemane/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/Counties/Fès_-_Boulemane|Fès_-_Boulemane]] 
-- [[../../../../../../_public/geo/Continent/Africa/Morocco/Counties/Fès_-_Boulemane.public|Fès_-_Boulemane.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Morocco/Counties/Fès_-_Boulemane.internal|Fès_-_Boulemane.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Morocco/Counties/Fès_-_Boulemane.protect|Fès_-_Boulemane.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Morocco/Counties/Fès_-_Boulemane.private|Fès_-_Boulemane.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Morocco/Counties/Fès_-_Boulemane.personal|Fès_-_Boulemane.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Morocco/Counties/Fès_-_Boulemane.secret|Fès_-_Boulemane.secret]] 
+
+### #is_/same_as :: [Fès-Boulemane](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.md) 
+
+### #is_/same_as :: [Fès-Boulemane.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.public.md) 
+
+### #is_/same_as :: [Fès-Boulemane.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.internal.md) 
+
+### #is_/same_as :: [Fès-Boulemane.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.protect.md) 
+
+### #is_/same_as :: [Fès-Boulemane.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.private.md) 
+
+### #is_/same_as :: [Fès-Boulemane.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.personal.md) 
+
+### #is_/same_as :: [Fès-Boulemane.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.secret.md)
 

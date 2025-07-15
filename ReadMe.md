@@ -132,10 +132,4 @@ Capital :: [[./Morocco/City/Rabat|Rabat]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Morocco|Morocco]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~North/Morocco.internal|Morocco.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~North/Morocco.protect|Morocco.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~North/Morocco.private|Morocco.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~North/Morocco.personal|Morocco.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~North/Morocco.secret|Morocco.secret]] 
+

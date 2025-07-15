@@ -40,11 +40,18 @@ markerFolder: ./Oriental/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Morocco/Counties/Oriental|Oriental]] 
-- [[../../../../../../_public/geo/Continent/Africa/Morocco/Counties/Oriental.public|Oriental.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Morocco/Counties/Oriental.internal|Oriental.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Morocco/Counties/Oriental.protect|Oriental.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Morocco/Counties/Oriental.private|Oriental.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Morocco/Counties/Oriental.personal|Oriental.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Morocco/Counties/Oriental.secret|Oriental.secret]] 
+
+### #is_/same_as :: [Oriental](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental.md) 
+
+### #is_/same_as :: [Oriental.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental.public.md) 
+
+### #is_/same_as :: [Oriental.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental.internal.md) 
+
+### #is_/same_as :: [Oriental.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental.protect.md) 
+
+### #is_/same_as :: [Oriental.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental.private.md) 
+
+### #is_/same_as :: [Oriental.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental.personal.md) 
+
+### #is_/same_as :: [Oriental.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental.secret.md)
 
