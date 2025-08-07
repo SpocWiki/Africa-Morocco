@@ -111,5 +111,19 @@ Except for the limited purpose of indicating to the public that the Work is lice
 Creative Commons may be contacted at <http://creativecommons.org/>.
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [License](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/License.md) 
+
+### #is_/same_as :: [License.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/License.public.md) 
+
+### #is_/same_as :: [License.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/License.internal.md) 
+
+### #is_/same_as :: [License.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/License.protect.md) 
+
+### #is_/same_as :: [License.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/License.private.md) 
+
+### #is_/same_as :: [License.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/License.personal.md) 
+
+### #is_/same_as :: [License.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/License.secret.md)
 
