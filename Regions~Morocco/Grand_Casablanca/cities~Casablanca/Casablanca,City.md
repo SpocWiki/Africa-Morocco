@@ -3,15 +3,15 @@ aliases:
   - Casablanca
 has_id_wikidata: Q7903
 native_label:
+  - Casablanca
   - الدار البيضاء
   - Tigmmi tumlilt
   - ⴹⴹⴰⵕⵍⴱⵉⴹⴰ
-  - Casablanca
 official_name:
+  - Casablanca
+  - Casablanca
   - الدار البيضاء
   - ⵜⵉⴳⵎⵎⵉ ⵜⵓⵎⵍⵉⵍⵜ
-  - Casablanca
-  - Casablanca
 UN_LOCODE: MACAS
 coordinate_location: Point(-7.62 33.599166666)
 official_website: https://www.casablancacity.ma/fr
@@ -33,71 +33,71 @@ Instagram_username: casablancacity.ma
 Facebook_username: VilledeCasablanca
 Libris_URI: xv8b9p9g1ph2fl4
 demonym:
+  - casablanqués
+  - casablanquesa
   - Casablancan
   - Casablancais
   - Casablancaise
-  - casablanqués
-  - casablanquesa
 twinned_administrative_body:
-  - "[[db/Sosnowiec]]"
-  - "[[db/Oran]]"
-  - "[[db/Ramallah]]"
-  - "[[db/Nouadhibou]]"
-  - "[[db/Artvin]]"
-  - "[[db/Jeddah]]"
-  - "[[db/Sidi_Bennour]]"
-  - "[[db/Montreal]]"
-  - "[[db/Istanbul]]"
-  - "[[db/Emirate_of_Dubai]]"
-  - "[[db/Saint_Petersburg]]"
-  - "[[db/Chicago]]"
-  - "[[db/Bengaluru]]"
-  - "[[db/Bordeaux]]"
-  - "[[db/Buenos_Aires]]"
-  - "[[db/Tokyo]]"
-  - "[[db/Barcelona]]"
-  - "[[db/Kuala_Lumpur]]"
-  - "[[db/Jakarta]]"
-  - "[[db/Dakar]]"
-  - "[[db/Amman]]"
-  - "[[db/Rio_de_Janeiro]]"
-  - "[[db/Shanghai]]"
-  - "[[db/Busan]]"
-  - "[[db/Paris]]"
-  - "[[db/Benghazi]]"
-  - "[[db/Sfax]]"
+  - "[[_Standards/WikiData/WD~Sosnowiec,105060]]"
+  - "[[_Standards/WikiData/WD~Oran,131818]]"
+  - "[[_Standards/WikiData/WD~Ramallah,158119]]"
+  - "[[_Standards/WikiData/WD~Nouadhibou,184184]]"
+  - "[[_Standards/WikiData/WD~Artvin,193445]]"
+  - "[[_Standards/WikiData/WD~Jeddah,374365]]"
+  - "[[_Standards/WikiData/WD~Sidi_Bennour,4418748]]"
+  - "[[_Standards/WikiData/WD~Montreal,340]]"
+  - "[[_Standards/WikiData/WD~Istanbul,406]]"
+  - "[[_Standards/WikiData/WD~Emirate_of_Dubai,613]]"
+  - "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
+  - "[[_Standards/WikiData/WD~Chicago,1297]]"
+  - "[[_Standards/WikiData/WD~Bengaluru,1355]]"
+  - "[[_Standards/WikiData/WD~Bordeaux,1479]]"
+  - "[[_Standards/WikiData/WD~Buenos_Aires,1486]]"
+  - "[[_Standards/WikiData/WD~Tokyo,1490]]"
+  - "[[_Standards/WikiData/WD~Barcelona,1492]]"
+  - "[[_Standards/WikiData/WD~Kuala_Lumpur,1865]]"
+  - "[[_Standards/WikiData/WD~Jakarta,3630]]"
+  - "[[_Standards/WikiData/WD~Dakar,3718]]"
+  - "[[_Standards/WikiData/WD~Amman,3805]]"
+  - "[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]"
+  - "[[_Standards/WikiData/WD~Shanghai,8686]]"
+  - "[[_Standards/WikiData/WD~Busan,16520]]"
+  - "[[_Standards/WikiData/WD~Paris,90]]"
+  - "[[_Standards/WikiData/WD~Benghazi,40816]]"
+  - "[[_Standards/WikiData/WD~Sfax,46325]]"
 different_from:
-  - "[[db/Casablanca]]"
-  - "[[db/Dar_El_Beïda]]"
+  - "[[_Standards/WikiData/WD~Casablanca,229262]]"
+  - "[[_Standards/WikiData/WD~Dar_El_Beïda,59419]]"
 capital_of:
-  - "[[db/Casablanca_Prefecture]]"
-  - "[[db/Casablanca_Settat]]"
-located_in_the_administrative_territorial_entity: "[[db/Casablanca_Prefecture]]"
+  - "[[_Standards/WikiData/WD~Casablanca_Prefecture,649078]]"
+  - "[[_Standards/WikiData/WD~Casablanca_Settat,19843788]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Casablanca_Prefecture,649078]]"
 described_by_source:
-  - "[[db/Encyclopædia_Britannica_11th_edition]]"
-  - "[[db/Armenian_Soviet_Encyclopedia]]"
-  - "[[db/Sytin_Military_Encyclopedia]]"
-  - "[[db/Jewish_Encyclopedia_of_Brockhaus_and_Efron]]"
-  - "[[db/Esmeraldo_de_Situ_Orbis]]"
-heritage_designation: "[[db/Tentative_World_Heritage_Site]]"
-owner_of: "[[db/Mohammed_V_Stadium]]"
-said_to_be_the_same_as: "[[db/Anfa]]"
-economy_of_topic: "[[db/economy_of_Casablanca]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Esmeraldo_de_Situ_Orbis,113586774]]"
+heritage_designation: "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]"
+owner_of: "[[_Standards/WikiData/WD~Mohammed_V_Stadium,1783824]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Anfa,2403368]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Casablanca,5333648]]"
 official_language:
-  - "[[db/Standard_Moroccan_Amazigh]]"
-  - "[[db/Arabic]]"
-topic_s_main_Wikimedia_portal: "[[db/Portal_Casablanca]]"
-history_of_topic: "[[db/timeline_of_Casablanca]]"
+  - "[[_Standards/WikiData/WD~Standard_Moroccan_Amazigh,7598268]]"
+  - "[[_Standards/WikiData/WD~Arabic,13955]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Casablanca,13474557]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Casablanca,18394447]]"
 World_Heritage_criteria:
-  - "[[db/(iv)]]"
-  - "[[db/(ii)]]"
-category_for_people_buried_here: "[[db/Q32395718]]"
-head_of_government: "[[db/Nabila_Rmili]]"
-instance_of: "[[db/city]]"
-country: "[[db/Morocco]]"
+  - "[[_Standards/WikiData/WD~(iv),23038978]]"
+  - "[[_Standards/WikiData/WD~(ii),23038976]]"
+category_for_people_buried_here: "[[_Standards/WikiData/WD~Q32395718,32395718]]"
+head_of_government: "[[_Standards/WikiData/WD~Nabila_Rmili,108699304]]"
+instance_of: "[[_Standards/WikiData/WD~city,515]]"
+country: "[[_Standards/WikiData/WD~Morocco,1028]]"
 located_in_time_zone:
-  - "[[db/UTC_00_00]]"
-  - "[[db/UTC+01_00]]"
+  - "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
+  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
 elevation_above_sea_level: 115
 area: 384
 local_dialing_code:
