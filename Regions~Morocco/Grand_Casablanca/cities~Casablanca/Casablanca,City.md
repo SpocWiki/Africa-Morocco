@@ -147,3 +147,22 @@ U_S_National_Archives_Identifier: "10044575"
 > [Wikipedia](https://en.wikipedia.org/wiki/Casablanca) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Casablanca,City](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca/cities~Casablanca/Casablanca,City.md) 
+
+### #is_/same_as :: [Casablanca,City.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca/cities~Casablanca/Casablanca,City.public.md) 
+
+### #is_/same_as :: [Casablanca,City.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca/cities~Casablanca/Casablanca,City.internal.md) 
+
+### #is_/same_as :: [Casablanca,City.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca/cities~Casablanca/Casablanca,City.protect.md) 
+
+### #is_/same_as :: [Casablanca,City.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca/cities~Casablanca/Casablanca,City.private.md) 
+
+### #is_/same_as :: [Casablanca,City.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca/cities~Casablanca/Casablanca,City.personal.md) 
+
+### #is_/same_as :: [Casablanca,City.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca/cities~Casablanca/Casablanca,City.secret.md)
+
