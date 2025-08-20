@@ -1,30 +1,29 @@
 ---
-location: [ 33.7 , -6.4 ] 
+location:
+  - 33.7
+  - -6.4
 type: geo-Region
 title: Rabat_-_Salé_-_Zemmour_-_Zaer
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Rabat_-_Salé_-_Zemmour_-_Zaer
-
+  - Rabat_-_Salé_-_Zemmour_-_Zaer
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Rabat_-_Salé_-_Zemmour_-_Zaer

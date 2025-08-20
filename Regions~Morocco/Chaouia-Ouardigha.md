@@ -1,30 +1,29 @@
 ---
-location: [ 33.1 , -7.2 ] 
+location:
+  - 33.1
+  - -7.2
 type: geo-Region
 title: Chaouia_-_Ouardigha
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Chaouia_-_Ouardigha
-
+  - Chaouia_-_Ouardigha
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Chaouia_-_Ouardigha

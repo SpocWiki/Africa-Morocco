@@ -1,30 +1,29 @@
 ---
-location: [ 32.1 , -6.5 ] 
+location:
+  - 32.1
+  - -6.5
 type: geo-Region
 title: Tadla_-_Azilal
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Tadla_-_Azilal
-
+  - Tadla_-_Azilal
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Tadla_-_Azilal

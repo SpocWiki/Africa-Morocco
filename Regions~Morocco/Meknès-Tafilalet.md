@@ -1,30 +1,29 @@
 ---
-location: [ 32.3 , -4.6 ] 
+location:
+  - 32.3
+  - -4.6
 type: geo-Region
 title: Meknès_-_Tafilalet
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Meknès_-_Tafilalet
-
+  - Meknès_-_Tafilalet
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Meknès_-_Tafilalet

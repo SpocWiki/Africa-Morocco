@@ -1,30 +1,29 @@
 ---
-location: [ 23 , -15.1 ] 
+location:
+  - 23
+  - -15.1
 type: geo-Region
 title: Oued_el_Dahab
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Oued_el_Dahab
-
+  - Oued_el_Dahab
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Oued_el_Dahab

@@ -1,38 +1,39 @@
 ---
 location:
-- 33.0225
-- -7.6125
+  - 33.0225
+  - -7.6125
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26956
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Morocco
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Morocco
-- Marruecos
-- Maroc
-- المغرب
-- 摩洛哥
-- Марокко
-- the Kingdom of Morocco
-- el Reino de Marruecos
+  - Morocco
+  - Marruecos
+  - Maroc
+  - المغرب
+  - 摩洛哥
+  - Марокко
+  - the Kingdom of Morocco
+  - el Reino de Marruecos
 Languages:
-- ar-MA
-- ber
-- fr
+  - ar-MA
+  - ber
+  - fr
 ---
 
 

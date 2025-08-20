@@ -1,30 +1,29 @@
 ---
-location: [ 32.6 , -8.6 ] 
+location:
+  - 32.6
+  - -8.6
 type: geo-Region
 title: Doukkala_-_Abda
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Doukkala_-_Abda
-
+  - Doukkala_-_Abda
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Doukkala_-_Abda
