@@ -111,10 +111,28 @@ Country :: [[Morocco]]
 id: Rabat
 coordinates: [[Rabat]] 
 markerFile: [[Rabat]] 
+geojsonFolder: ./Rabat/
+markerFolder: ./Rabat/
+zoomFeatures: true 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
+## #has_/text_of_/abstract 
+
+> **Rabat** (Arabic: الرباط, romanized: ar-Ribāṭ) is the capital city of Morocco 
+> and the country's seventh-largest city with an urban population of approximately 580,000 
+> (2014) and a metropolitan population of over 1.2 million. 
+> 
+> It is also the capital city of the Rabat-Salé-Kénitra administrative region. 
+> Rabat is located on the Atlantic Ocean at the mouth of the river Bou Regreg, 
+> opposite Salé, the city's main commuter town.
+>
+> Rabat was founded in the 12th century by the Almohads. After a period of growth, the city fell  into a long period of decline. In the 17th century, Rabat became a haven for Barbary pirates. When the French established a protectorate over Morocco in 1912,  Rabat became its administrative center. When Morocco achieved independence in 1955, Rabat became its capital.
+>
+> Rabat, Temara, and Salé form a conurbation of over 1.8 million people. Rabat is one of four Imperial cities of Morocco, and its medina is listed as a World Heritage Site. It is accessible by train through the ONCF system and by plane through the nearby Rabat–Salé Airport.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Rabat)
 
 ## Confidential Links & Embeds: 
 
