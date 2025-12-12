@@ -81,7 +81,7 @@ id: Fez,City
 coordinates: [[Fez,City]] 
 markerFile: [[Fez,City]] 
 geojsonFolder: ./Fez,City//
-markerFolder: ./Fez,City/
+markerFolder: ./Fez,City//
 zoomFeatures: false
 defaultZoom: 9 
 maxZoom: 18
