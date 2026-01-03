@@ -40,17 +40,17 @@ markerFolder: ./Gharb_-_Chrarda_-_Béni_Hssen/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gharb-Chrarda-Béni_Hssen](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Gharb-Chrarda-Béni_Hssen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Gharb-Chrarda-Béni_Hssen|Gharb-Chrarda-Béni_Hssen]] 
 
-### #is_/same_as :: [Gharb-Chrarda-Béni_Hssen.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Gharb-Chrarda-Béni_Hssen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Gharb-Chrarda-Béni_Hssen.public|Gharb-Chrarda-Béni_Hssen.public]] 
 
-### #is_/same_as :: [Gharb-Chrarda-Béni_Hssen.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Gharb-Chrarda-Béni_Hssen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Gharb-Chrarda-Béni_Hssen.internal|Gharb-Chrarda-Béni_Hssen.internal]] 
 
-### #is_/same_as :: [Gharb-Chrarda-Béni_Hssen.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Gharb-Chrarda-Béni_Hssen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Gharb-Chrarda-Béni_Hssen.protect|Gharb-Chrarda-Béni_Hssen.protect]] 
 
-### #is_/same_as :: [Gharb-Chrarda-Béni_Hssen.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Gharb-Chrarda-Béni_Hssen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Gharb-Chrarda-Béni_Hssen.private|Gharb-Chrarda-Béni_Hssen.private]] 
 
-### #is_/same_as :: [Gharb-Chrarda-Béni_Hssen.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Gharb-Chrarda-Béni_Hssen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Gharb-Chrarda-Béni_Hssen.personal|Gharb-Chrarda-Béni_Hssen.personal]] 
 
-### #is_/same_as :: [Gharb-Chrarda-Béni_Hssen.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Gharb-Chrarda-Béni_Hssen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Gharb-Chrarda-Béni_Hssen.secret|Gharb-Chrarda-Béni_Hssen.secret]] 
 

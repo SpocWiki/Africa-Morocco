@@ -40,17 +40,17 @@ markerFolder: ./Fès_-_Boulemane/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fès-Boulemane](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane|Fès-Boulemane]] 
 
-### #is_/same_as :: [Fès-Boulemane.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.public|Fès-Boulemane.public]] 
 
-### #is_/same_as :: [Fès-Boulemane.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.internal|Fès-Boulemane.internal]] 
 
-### #is_/same_as :: [Fès-Boulemane.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.protect|Fès-Boulemane.protect]] 
 
-### #is_/same_as :: [Fès-Boulemane.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.private|Fès-Boulemane.private]] 
 
-### #is_/same_as :: [Fès-Boulemane.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.personal|Fès-Boulemane.personal]] 
 
-### #is_/same_as :: [Fès-Boulemane.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane.secret|Fès-Boulemane.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Doukkala_-_Abda/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Doukkala-Abda](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda|Doukkala-Abda]] 
 
-### #is_/same_as :: [Doukkala-Abda.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.public|Doukkala-Abda.public]] 
 
-### #is_/same_as :: [Doukkala-Abda.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.internal|Doukkala-Abda.internal]] 
 
-### #is_/same_as :: [Doukkala-Abda.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.protect|Doukkala-Abda.protect]] 
 
-### #is_/same_as :: [Doukkala-Abda.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.private|Doukkala-Abda.private]] 
 
-### #is_/same_as :: [Doukkala-Abda.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.personal|Doukkala-Abda.personal]] 
 
-### #is_/same_as :: [Doukkala-Abda.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Doukkala-Abda.secret|Doukkala-Abda.secret]] 
 

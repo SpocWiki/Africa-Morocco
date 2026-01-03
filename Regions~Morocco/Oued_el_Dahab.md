@@ -40,17 +40,17 @@ markerFolder: ./Oued_el_Dahab/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oued_el_Dahab](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oued_el_Dahab.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oued_el_Dahab|Oued_el_Dahab]] 
 
-### #is_/same_as :: [Oued_el_Dahab.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oued_el_Dahab.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oued_el_Dahab.public|Oued_el_Dahab.public]] 
 
-### #is_/same_as :: [Oued_el_Dahab.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oued_el_Dahab.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oued_el_Dahab.internal|Oued_el_Dahab.internal]] 
 
-### #is_/same_as :: [Oued_el_Dahab.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oued_el_Dahab.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oued_el_Dahab.protect|Oued_el_Dahab.protect]] 
 
-### #is_/same_as :: [Oued_el_Dahab.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oued_el_Dahab.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oued_el_Dahab.private|Oued_el_Dahab.private]] 
 
-### #is_/same_as :: [Oued_el_Dahab.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oued_el_Dahab.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oued_el_Dahab.personal|Oued_el_Dahab.personal]] 
 
-### #is_/same_as :: [Oued_el_Dahab.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oued_el_Dahab.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oued_el_Dahab.secret|Oued_el_Dahab.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Chaouia_-_Ouardigha/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chaouia-Ouardigha](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha|Chaouia-Ouardigha]] 
 
-### #is_/same_as :: [Chaouia-Ouardigha.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.public|Chaouia-Ouardigha.public]] 
 
-### #is_/same_as :: [Chaouia-Ouardigha.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.internal|Chaouia-Ouardigha.internal]] 
 
-### #is_/same_as :: [Chaouia-Ouardigha.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.protect|Chaouia-Ouardigha.protect]] 
 
-### #is_/same_as :: [Chaouia-Ouardigha.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.private|Chaouia-Ouardigha.private]] 
 
-### #is_/same_as :: [Chaouia-Ouardigha.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.personal|Chaouia-Ouardigha.personal]] 
 
-### #is_/same_as :: [Chaouia-Ouardigha.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Chaouia-Ouardigha.secret|Chaouia-Ouardigha.secret]] 
 

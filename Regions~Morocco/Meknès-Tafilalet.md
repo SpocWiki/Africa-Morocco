@@ -40,17 +40,17 @@ markerFolder: ./Meknès_-_Tafilalet/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meknès-Tafilalet](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet|Meknès-Tafilalet]] 
 
-### #is_/same_as :: [Meknès-Tafilalet.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.public|Meknès-Tafilalet.public]] 
 
-### #is_/same_as :: [Meknès-Tafilalet.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.internal|Meknès-Tafilalet.internal]] 
 
-### #is_/same_as :: [Meknès-Tafilalet.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.protect|Meknès-Tafilalet.protect]] 
 
-### #is_/same_as :: [Meknès-Tafilalet.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.private|Meknès-Tafilalet.private]] 
 
-### #is_/same_as :: [Meknès-Tafilalet.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.personal|Meknès-Tafilalet.personal]] 
 
-### #is_/same_as :: [Meknès-Tafilalet.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Meknès-Tafilalet.secret|Meknès-Tafilalet.secret]] 
 

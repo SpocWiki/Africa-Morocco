@@ -40,17 +40,17 @@ markerFolder: ./Tanger_-_Tétouan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tanger-Tétouan](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan|Tanger-Tétouan]] 
 
-### #is_/same_as :: [Tanger-Tétouan.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.public|Tanger-Tétouan.public]] 
 
-### #is_/same_as :: [Tanger-Tétouan.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.internal|Tanger-Tétouan.internal]] 
 
-### #is_/same_as :: [Tanger-Tétouan.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.protect|Tanger-Tétouan.protect]] 
 
-### #is_/same_as :: [Tanger-Tétouan.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.private|Tanger-Tétouan.private]] 
 
-### #is_/same_as :: [Tanger-Tétouan.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.personal|Tanger-Tétouan.personal]] 
 
-### #is_/same_as :: [Tanger-Tétouan.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Tanger-Tétouan.secret|Tanger-Tétouan.secret]] 
 

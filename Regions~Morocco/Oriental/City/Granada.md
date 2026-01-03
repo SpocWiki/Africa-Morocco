@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Granada](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada|Granada]] 
 
-### #is_/same_as :: [Granada.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.public|Granada.public]] 
 
-### #is_/same_as :: [Granada.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.internal|Granada.internal]] 
 
-### #is_/same_as :: [Granada.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.protect|Granada.protect]] 
 
-### #is_/same_as :: [Granada.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.private|Granada.private]] 
 
-### #is_/same_as :: [Granada.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.personal|Granada.personal]] 
 
-### #is_/same_as :: [Granada.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Oriental/City/Granada.secret|Granada.secret]] 
 

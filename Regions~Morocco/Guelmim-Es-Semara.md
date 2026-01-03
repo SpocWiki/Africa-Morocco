@@ -40,17 +40,17 @@ markerFolder: ./Guelmim_-_Es-Semara/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guelmim-Es-Semara](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara|Guelmim-Es-Semara]] 
 
-### #is_/same_as :: [Guelmim-Es-Semara.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.public|Guelmim-Es-Semara.public]] 
 
-### #is_/same_as :: [Guelmim-Es-Semara.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.internal|Guelmim-Es-Semara.internal]] 
 
-### #is_/same_as :: [Guelmim-Es-Semara.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.protect|Guelmim-Es-Semara.protect]] 
 
-### #is_/same_as :: [Guelmim-Es-Semara.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.private|Guelmim-Es-Semara.private]] 
 
-### #is_/same_as :: [Guelmim-Es-Semara.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.personal|Guelmim-Es-Semara.personal]] 
 
-### #is_/same_as :: [Guelmim-Es-Semara.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Guelmim-Es-Semara.secret|Guelmim-Es-Semara.secret]] 
 

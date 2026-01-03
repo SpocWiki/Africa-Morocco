@@ -56,3 +56,20 @@ native_label: جَامِعَةُ القَرَوِيِّينَ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/University%20of%20al-Qarawiyyin) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane/counties~Fès-Boulemane/Fez,City/Arronds~Fès/Medina,Fes/University_of_al-Qarawiyyin|University_of_al-Qarawiyyin]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane/counties~Fès-Boulemane/Fez,City/Arronds~Fès/Medina,Fes/University_of_al-Qarawiyyin.public|University_of_al-Qarawiyyin.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane/counties~Fès-Boulemane/Fez,City/Arronds~Fès/Medina,Fes/University_of_al-Qarawiyyin.internal|University_of_al-Qarawiyyin.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane/counties~Fès-Boulemane/Fez,City/Arronds~Fès/Medina,Fes/University_of_al-Qarawiyyin.protect|University_of_al-Qarawiyyin.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane/counties~Fès-Boulemane/Fez,City/Arronds~Fès/Medina,Fes/University_of_al-Qarawiyyin.private|University_of_al-Qarawiyyin.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane/counties~Fès-Boulemane/Fez,City/Arronds~Fès/Medina,Fes/University_of_al-Qarawiyyin.personal|University_of_al-Qarawiyyin.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane/counties~Fès-Boulemane/Fez,City/Arronds~Fès/Medina,Fes/University_of_al-Qarawiyyin.secret|University_of_al-Qarawiyyin.secret]] 
+

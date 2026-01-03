@@ -53,3 +53,20 @@ Commons_category: History of Morocco
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Morocco) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Morocco/History_of_Morocco|History_of_Morocco]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Morocco/History_of_Morocco.public|History_of_Morocco.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Morocco/History_of_Morocco.internal|History_of_Morocco.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Morocco/History_of_Morocco.protect|History_of_Morocco.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Morocco/History_of_Morocco.private|History_of_Morocco.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Morocco/History_of_Morocco.personal|History_of_Morocco.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Morocco/History_of_Morocco.secret|History_of_Morocco.secret]] 
+

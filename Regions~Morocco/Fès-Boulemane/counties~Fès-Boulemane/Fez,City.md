@@ -103,4 +103,19 @@ minZoom: 3
 > [Wikipedia](https://en.wikipedia.org/wiki/Fez,%20Morocco) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane/counties~Fès-Boulemane/Fez,City|Fez,City]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane/counties~Fès-Boulemane/Fez,City.public|Fez,City.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane/counties~Fès-Boulemane/Fez,City.internal|Fez,City.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane/counties~Fès-Boulemane/Fez,City.protect|Fez,City.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane/counties~Fès-Boulemane/Fez,City.private|Fez,City.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane/counties~Fès-Boulemane/Fez,City.personal|Fez,City.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Fès-Boulemane/counties~Fès-Boulemane/Fez,City.secret|Fez,City.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Souss_-_Massa_-_Draâ/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Souss-Massa-Draâ](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ|Souss-Massa-Draâ]] 
 
-### #is_/same_as :: [Souss-Massa-Draâ.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ.public|Souss-Massa-Draâ.public]] 
 
-### #is_/same_as :: [Souss-Massa-Draâ.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ.internal|Souss-Massa-Draâ.internal]] 
 
-### #is_/same_as :: [Souss-Massa-Draâ.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ.protect|Souss-Massa-Draâ.protect]] 
 
-### #is_/same_as :: [Souss-Massa-Draâ.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ.private|Souss-Massa-Draâ.private]] 
 
-### #is_/same_as :: [Souss-Massa-Draâ.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ.personal|Souss-Massa-Draâ.personal]] 
 
-### #is_/same_as :: [Souss-Massa-Draâ.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Souss-Massa-Draâ.secret|Souss-Massa-Draâ.secret]] 
 

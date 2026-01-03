@@ -60,17 +60,17 @@ markerFolder: ./Grand_Casablanca///
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grand_Casablanca](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca|Grand_Casablanca]] 
 
-### #is_/same_as :: [Grand_Casablanca.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.public|Grand_Casablanca.public]] 
 
-### #is_/same_as :: [Grand_Casablanca.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.internal|Grand_Casablanca.internal]] 
 
-### #is_/same_as :: [Grand_Casablanca.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.protect|Grand_Casablanca.protect]] 
 
-### #is_/same_as :: [Grand_Casablanca.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.private|Grand_Casablanca.private]] 
 
-### #is_/same_as :: [Grand_Casablanca.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.personal|Grand_Casablanca.personal]] 
 
-### #is_/same_as :: [Grand_Casablanca.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Grand_Casablanca.secret|Grand_Casablanca.secret]] 
 

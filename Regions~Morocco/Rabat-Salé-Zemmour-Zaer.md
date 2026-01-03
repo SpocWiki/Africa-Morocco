@@ -40,17 +40,17 @@ markerFolder: ./Rabat_-_Salé_-_Zemmour_-_Zaer/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rabat-Salé-Zemmour-Zaer](/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Rabat-Salé-Zemmour-Zaer.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Rabat-Salé-Zemmour-Zaer|Rabat-Salé-Zemmour-Zaer]] 
 
-### #is_/same_as :: [Rabat-Salé-Zemmour-Zaer.public](/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Rabat-Salé-Zemmour-Zaer.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Rabat-Salé-Zemmour-Zaer.public|Rabat-Salé-Zemmour-Zaer.public]] 
 
-### #is_/same_as :: [Rabat-Salé-Zemmour-Zaer.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Rabat-Salé-Zemmour-Zaer.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Rabat-Salé-Zemmour-Zaer.internal|Rabat-Salé-Zemmour-Zaer.internal]] 
 
-### #is_/same_as :: [Rabat-Salé-Zemmour-Zaer.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Rabat-Salé-Zemmour-Zaer.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Rabat-Salé-Zemmour-Zaer.protect|Rabat-Salé-Zemmour-Zaer.protect]] 
 
-### #is_/same_as :: [Rabat-Salé-Zemmour-Zaer.private](/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Rabat-Salé-Zemmour-Zaer.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Rabat-Salé-Zemmour-Zaer.private|Rabat-Salé-Zemmour-Zaer.private]] 
 
-### #is_/same_as :: [Rabat-Salé-Zemmour-Zaer.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Rabat-Salé-Zemmour-Zaer.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Rabat-Salé-Zemmour-Zaer.personal|Rabat-Salé-Zemmour-Zaer.personal]] 
 
-### #is_/same_as :: [Rabat-Salé-Zemmour-Zaer.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Rabat-Salé-Zemmour-Zaer.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Morocco/Regions~Morocco/Rabat-Salé-Zemmour-Zaer.secret|Rabat-Salé-Zemmour-Zaer.secret]] 
 
