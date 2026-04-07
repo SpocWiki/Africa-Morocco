@@ -11,41 +11,41 @@ demonym:
   - Fésien
   - Fésienne
   - Fasi
-different_from: "[[_Standards/WikiData/WD~Fez,233633]]"
+different_from: "[[_Standards/WikiData/WD~Fez,233633|WD~Fez,233633]]"
 capital_of:
-  - "[[_Standards/WikiData/WD~Idrisid_dynasty,431575]]"
-  - "[[_Standards/WikiData/WD~Marinid_dynasty,582861]]"
-  - "[[_Standards/WikiData/WD~Fès_méknas_boulmane,648249]]"
-  - "[[_Standards/WikiData/WD~Fez_Prefecture,1479285]]"
-  - "[[_Standards/WikiData/WD~Fès_Meknès,19951027]]"
-  - "[[_Standards/WikiData/WD~Alawi_Sultanate,131429368]]"
-  - "[[_Standards/WikiData/WD~Q135417848,135417848]]"
-founded_by: "[[_Standards/WikiData/WD~Idrisid_dynasty,431575]]"
+  - "[[_Standards/WikiData/WD~Idrisid_dynasty,431575|WD~Idrisid_dynasty,431575]]"
+  - "[[_Standards/WikiData/WD~Marinid_dynasty,582861|WD~Marinid_dynasty,582861]]"
+  - "[[_Standards/WikiData/WD~Fès_méknas_boulmane,648249|WD~Fès_méknas_boulmane,648249]]"
+  - "[[_Standards/WikiData/WD~Fez_Prefecture,1479285|WD~Fez_Prefecture,1479285]]"
+  - "[[_Standards/WikiData/WD~Fès_Meknès,19951027|WD~Fès_Meknès,19951027]]"
+  - "[[_Standards/WikiData/WD~Alawi_Sultanate,131429368|WD~Alawi_Sultanate,131429368]]"
+  - "[[_Standards/WikiData/WD~Q135417848,135417848|WD~Q135417848,135417848]]"
+founded_by: "[[_Standards/WikiData/WD~Idrisid_dynasty,431575|WD~Idrisid_dynasty,431575]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Esmeraldo_de_Situ_Orbis,113586774]]"
-has_characteristic: "[[_Standards/WikiData/WD~Imperial_cities_of_Morocco,720077]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Esmeraldo_de_Situ_Orbis,113586774|WD~Esmeraldo_de_Situ_Orbis,113586774]]"
+has_characteristic: "[[_Standards/WikiData/WD~Imperial_cities_of_Morocco,720077|WD~Imperial_cities_of_Morocco,720077]]"
 member_of:
-  - "[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]"
-  - "[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]"
-owner_of: "[[_Standards/WikiData/WD~Fez_Stadium,1479283]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Fez_Prefecture,1479285]]"
-head_of_government: "[[_Standards/WikiData/WD~Idriss_Azami_Al_Idrissi,3039499]]"
-shares_border_with: "[[_Standards/WikiData/WD~Ain_Chkef,12229116]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Fez,19894982]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q42351484,42351484]]"
+  - "[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958|WD~Organization_of_World_Heritage_Cities,734958]]"
+  - "[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972|WD~League_of_Historical_Cities,9383972]]"
+owner_of: "[[_Standards/WikiData/WD~Fez_Stadium,1479283|WD~Fez_Stadium,1479283]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Fez_Prefecture,1479285|WD~Fez_Prefecture,1479285]]"
+head_of_government: "[[_Standards/WikiData/WD~Idriss_Azami_Al_Idrissi,3039499|WD~Idriss_Azami_Al_Idrissi,3039499]]"
+shares_border_with: "[[_Standards/WikiData/WD~Ain_Chkef,12229116|WD~Ain_Chkef,12229116]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Fez,19894982|WD~timeline_of_Fez,19894982]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q42351484,42351484|WD~Q42351484,42351484]]"
 inception: 0789-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~city,515]]"
-country: "[[_Standards/WikiData/WD~Morocco,1028]]"
+instance_of: "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
+country: "[[_Standards/WikiData/WD~Morocco,1028|WD~Morocco,1028]]"
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Florence,2044]]"
-  - "[[_Standards/WikiData/WD~Montpellier,6441]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+  - "[[_Standards/WikiData/WD~Florence,2044|WD~Florence,2044]]"
+  - "[[_Standards/WikiData/WD~Montpellier,6441|WD~Montpellier,6441]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]"
 area: 320
 elevation_above_sea_level: 408
 number_of_households: 17342
@@ -72,7 +72,7 @@ postal_code: 30000–30206
 
 # [[Fez,City]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Fez,80985]]
+#is_/same_as :: [[_Standards/WikiData/WD~Fez,80985|WD~Fez,80985]]
 
 ## #has_/map 
 

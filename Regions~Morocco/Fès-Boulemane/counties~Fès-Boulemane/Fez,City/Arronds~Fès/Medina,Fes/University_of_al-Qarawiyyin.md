@@ -8,21 +8,21 @@ aliases:
 has_id_wikidata: Q378014
 location: [ 34.064444444, -4.973333333]
 coordinate_location: Point(-4.973333333 34.064444444)
-headquarters_location: "[[_Standards/WikiData/WD~Fez,80985]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Fez,80985]]"
-founded_by: "[[_Standards/WikiData/WD~Fatima_al_Fihriya,182363]]"
-member_of: "[[_Standards/WikiData/WD~Association_of_African_Universities,743769]]"
-part_of: "[[_Standards/WikiData/WD~Medina_of_Fez,2072102]]"
-has_part_s_: "[[_Standards/WikiData/WD~al_Qarawiyyin_library,25293247]]"
-heritage_designation: "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
+headquarters_location: "[[_Standards/WikiData/WD~Fez,80985|WD~Fez,80985]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Fez,80985|WD~Fez,80985]]"
+founded_by: "[[_Standards/WikiData/WD~Fatima_al_Fihriya,182363|WD~Fatima_al_Fihriya,182363]]"
+member_of: "[[_Standards/WikiData/WD~Association_of_African_Universities,743769|WD~Association_of_African_Universities,743769]]"
+part_of: "[[_Standards/WikiData/WD~Medina_of_Fez,2072102|WD~Medina_of_Fez,2072102]]"
+has_part_s_: "[[_Standards/WikiData/WD~al_Qarawiyyin_library,25293247|WD~al_Qarawiyyin_library,25293247]]"
+heritage_designation: "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623|WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~Govdirectory,108109790]]"
-  - "[[_Standards/WikiData/WD~Told_Cities,109929866]]"
+  - "[[_Standards/WikiData/WD~Govdirectory,108109790|WD~Govdirectory,108109790]]"
+  - "[[_Standards/WikiData/WD~Told_Cities,109929866|WD~Told_Cities,109929866]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~Moroccan_public_institution,121614922]]"
-  - "[[_Standards/WikiData/WD~university,3918]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
-country: "[[_Standards/WikiData/WD~Morocco,1028]]"
+  - "[[_Standards/WikiData/WD~Moroccan_public_institution,121614922|WD~Moroccan_public_institution,121614922]]"
+  - "[[_Standards/WikiData/WD~university,3918|WD~university,3918]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]"
+country: "[[_Standards/WikiData/WD~Morocco,1028|WD~Morocco,1028]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/University%20of%20Al%20Qaraouiyine.jpg
 Commons_category: Al-Qarawiyyin
 inception: 0859-01-01T00:00:00Z
@@ -40,7 +40,7 @@ native_label: جَامِعَةُ القَرَوِيِّينَ
 
 > The University of al-Qarawiyyin (Arabic: جامعة القرويين, 
 > romanized: Jāmiʻat al-Qarawīyīn), also written Al-Karaouine or Al Quaraouiyine, 
-> is a university located in [[../../../Fez,City]], [[Morocco]]. 
+> is a university located in [[../../../Fez,City|Fez,City]], [[Morocco]]. 
 > 
 > It was founded as a mosque by Fatima al-Fihri in 857–859 and subsequently 
 > became one of the leading spiritual and educational centers of the Islamic Golden Age. I
