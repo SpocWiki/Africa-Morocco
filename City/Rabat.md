@@ -132,7 +132,7 @@ maxZoom: 18
 >
 > Rabat, Temara, and Salé form a conurbation of over 1.8 million people. Rabat is one of four Imperial cities of Morocco, and its medina is listed as a World Heritage Site. It is accessible by train through the ONCF system and by plane through the nearby Rabat–Salé Airport.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rabat)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rabat) 
 
 
 ## Confidential Links & Embeds: 

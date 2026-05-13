@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Tadla_-_Azilal/
 markerFolder: ./Tadla_-_Azilal/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

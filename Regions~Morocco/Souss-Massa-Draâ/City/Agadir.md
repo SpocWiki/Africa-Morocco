@@ -28,7 +28,7 @@ coordinates: [[Agadir]]
 markerFile: [[Agadir]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

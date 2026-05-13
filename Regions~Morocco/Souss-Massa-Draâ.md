@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Souss_-_Massa_-_Draâ/
 markerFolder: ./Souss_-_Massa_-_Draâ/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Tanger_-_Tétouan/
 markerFolder: ./Tanger_-_Tétouan/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

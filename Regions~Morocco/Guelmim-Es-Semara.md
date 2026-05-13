@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Guelmim_-_Es-Semara/
 markerFolder: ./Guelmim_-_Es-Semara/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

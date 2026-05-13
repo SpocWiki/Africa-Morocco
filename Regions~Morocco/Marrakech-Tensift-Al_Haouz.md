@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Marrakech_-_Tensift_-_Al_Haouz/
 markerFolder: ./Marrakech_-_Tensift_-_Al_Haouz/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

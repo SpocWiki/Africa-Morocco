@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Laâyoune_-_Boujdour_-_Sakia_El_Hamra/
 markerFolder: ./Laâyoune_-_Boujdour_-_Sakia_El_Hamra/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

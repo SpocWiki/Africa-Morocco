@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Gharb_-_Chrarda_-_Béni_Hssen/
 markerFolder: ./Gharb_-_Chrarda_-_Béni_Hssen/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

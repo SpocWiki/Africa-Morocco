@@ -28,7 +28,7 @@ coordinates: [[El_Aaiún_(Laâyoune)]]
 markerFile: [[El_Aaiún_(Laâyoune)]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Fès_-_Boulemane/
 markerFolder: ./Fès_-_Boulemane/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

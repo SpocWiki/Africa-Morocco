@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Rabat_-_Salé_-_Zemmour_-_Zaer/
 markerFolder: ./Rabat_-_Salé_-_Zemmour_-_Zaer/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Doukkala_-_Abda/
 markerFolder: ./Doukkala_-_Abda/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

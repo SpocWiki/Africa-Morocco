@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Meknès_-_Tafilalet/
 markerFolder: ./Meknès_-_Tafilalet/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

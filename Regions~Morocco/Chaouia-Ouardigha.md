@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Chaouia_-_Ouardigha/
 markerFolder: ./Chaouia_-_Ouardigha/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

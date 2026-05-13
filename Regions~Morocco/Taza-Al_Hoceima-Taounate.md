@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Taza_-_Al_Hoceima_-_Taounate/
 markerFolder: ./Taza_-_Al_Hoceima_-_Taounate/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
