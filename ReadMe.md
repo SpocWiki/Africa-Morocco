@@ -183,7 +183,7 @@ anthem: '[[/_Standards/WikiData/WD~Cherifian_Anthem,238826|WD~Cherifian_Anthem,2
 culture: '[[/_Standards/WikiData/WD~culture_of_Morocco,286806|WD~culture_of_Morocco,286806]]'
 described_by_source:
 - '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
 - '[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
@@ -575,7 +575,7 @@ dv_UNTERM_Chinese_Formal: 摩洛哥王国
 dv_UNTERM_French_Formal: le Royaume du Maroc
 dv_UNTERM_Russian: Марокко
 dv_UNTERM_Russian_Formal: Королевство Марокко
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Morocco]]'
 dv_Sub-region_Name: '[[Northern Africa]]'
 dv_Region: 2
@@ -600,7 +600,7 @@ dv_ISO2: MA
 dv_ISO3: MAR
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Morocco,1028|WD~Morocco,1028]]'
+  - '[[../../../../../WikiData/WD~Morocco,1028|WD~Morocco,1028]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~North/Morocco|Morocco]]'
   - '[[/_public/Earth/Continent/Africa/Africa~North/Morocco.public|Morocco.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~North/Morocco.internal|Morocco.internal]]'
@@ -920,7 +920,7 @@ dv_has_:
 dv_has_name_de: Marokko
 dv_Area-Total: 458730
 dv_Area-Land: 446300
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: MA
 dv_Alcohol-l: 1.5
 dv_Language-Id: 472
@@ -928,7 +928,7 @@ dv_has_place_longitude: -7.6125
 dv_has_place_latitude: 33.0225
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Morocco,1028|WD~Morocco,1028]]'
+- '[[../../../../../WikiData/WD~Morocco,1028|WD~Morocco,1028]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~North/Morocco|Morocco]]'
 - '[[/_public/Earth/Continent/Africa/Africa~North/Morocco.public|Morocco.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~North/Morocco.internal|Morocco.internal]]'
@@ -1010,12 +1010,12 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2` 
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Morocco,1028|WD~Morocco,1028]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Morocco,1028|WD~Morocco,1028]] 
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Morocco/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -1034,11 +1034,11 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[./Morocco/City/Rabat|Rabat]]  
+Capital :: [[City/Rabat|Rabat]]  
 
 ![[Coat_of_arms_of_Morocco.svg|550]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Morocco.mp3|Anthem-Morocco.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Morocco.mp3|Anthem-Morocco.mp3]]
 
 ![[Flag_of_Morocco.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
